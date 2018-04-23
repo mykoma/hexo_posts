@@ -51,7 +51,6 @@ scaffolds/
 package.json
 package-lock.json
 db.json
-_config.yml
 
 # Carthage
 #

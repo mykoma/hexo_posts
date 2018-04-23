@@ -1,0 +1,88 @@
+# ========== Profile ========== #
+# avatar
+avatar: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1522950354149&di=2abb057a40aedc4f304a1aa11796b590&imgtype=0&src=http%3A%2F%2Fimg1.gtimg.com%2Ffj%2Fpics%2Fhv1%2F162%2F192%2F1501%2F97651647.jpg
+# author name
+author: 成都老刘
+# signature
+signature: 来自西南利亚的冷空气
+# SNS
+social:
+  email: 23775517@qq.com
+  github: //github.com/mykoma
+  # wechat and qq should be a path of qr-code image
+  wechat:
+  qq:
+  weibo:
+  zhihu:
+  douban:
+  facebook:
+  twitter:
+  instagram:
+  stack-overflow:
+  v2ex:
+  linkedin:
+  others:
+  rss: /atom.xml
+# friends
+# friends:
+#   friendA:
+#   friendB:
+#   friendC:
+about:
+  enable: false
+  image: '/intro/about-bg.jpg'
+
+# ========== Site ========== #
+# title of the site
+SEO_title: 成都老刘的技术小窝
+# main title
+main_title: 成都老刘的技术小窝
+# subtitle
+subtitle: 天行健，君子以自强不息，地势坤，君子以厚德载物
+# site haeder image
+site_header_image: 'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1522950747876&di=47a5163cd82e874a214b25ec20b2a7ae&imgtype=0&src=http%3A%2F%2Fpic28.nipic.com%2F20130420%2F8952533_011531471000_2.jpg'
+# post haeder image
+post_header_image: 'https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1822516668,2307386487&fm=27&gp=0.jpg'
+# 404 image
+_404_image: 'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1522951179252&di=c7b1e9993c04f79678ac485445cca3bb&imgtype=0&src=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fimages%2F20171217%2F5d87231ce74540c6b3f5f410a5c9e0f9.gif'
+
+# ========== Comment ========== #
+# Fill in the field to enable the corresponding comment plugin
+# If you want to add other comment plugin, edit in "custom.ejs"
+comment:
+  # Livere  site: https://livere.com/
+  livere_uid: MTAyMC8zNTQ5My8xMjAyOQ==
+  # Disqus  site: https://disqus.com/
+  disqus_shortname:
+  # Changyan  site: http://changyan.kuaizhan.com/
+  changyan_appid:
+  changyan_conf:
+  # Gitment  site: https://github.com/imsun/gitment
+  gitment_owner:
+  gitment_repo:
+  gitment_client_id:
+  gitment_client_secret:
+  # Youyan  site: http://www.uyan.cc/
+  youyan_uid:
+
+# ========== Analytics ========== #
+# Busuanzi pv analytics
+busuanzi: true
+# Baidu analytics
+baidu_analytics:
+# Google analytics
+google_analytics:
+# CNZZ analytics
+CNZZ_analytics:
+
+# ========== Others ========== #
+# favicon
+favicon: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1522950354149&di=2abb057a40aedc4f304a1aa11796b590&imgtype=0&src=http%3A%2F%2Fimg1.gtimg.com%2Ffj%2Fpics%2Fhv1%2F162%2F192%2F1501%2F97651647.jpg
+# truncate length of abstracts in index page (the default is 300, there will be no abstruct if you input 0)
+truncate_length:
+# enable toc
+toc: true
+# intro height (the default is 50 percents of the screen, you can input other number)
+index_intro_height: 50
+post_intro_height: 50
+about_intro_height: 50
